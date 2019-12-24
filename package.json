@@ -14,5 +14,16 @@
   "bugs": {
     "url": "https://github.com/emptygalaxy/propres-control/issues"
   },
-  "homepage": "https://github.com/emptygalaxy/propres-control#readme"
+  "homepage": "https://github.com/emptygalaxy/propres-control#readme",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emptygalaxy/propres-control.git"
+  },
+  "keywords": [
+    "ProPresenter",
+    "MIDI",
+    "video",
+    "production"
+  ]
 }
