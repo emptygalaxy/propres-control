@@ -1,0 +1,18 @@
+{
+  "name": "propres-control",
+  "version": "0.0.1",
+  "description": "A wrapper for controlling ProPresenter using the MIDI module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Nick Timman",
+  "license": "ISC",
+  "dependencies": {
+    "midi": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/emptygalaxy/propres-control/issues"
+  },
+  "homepage": "https://github.com/emptygalaxy/propres-control#readme"
+}
